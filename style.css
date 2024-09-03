@@ -1,0 +1,50 @@
+/* style.css */
+body {
+    background-color: #d5e1ef;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 2;
+    display: flex ;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    width: 375px;
+    text-align: center;
+    padding: 15px;
+}
+
+.card-image {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-title {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    margin: 0;
+}
+
+.card-text {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+
+
+/* style for screens 375px and up */
+@media (min-width: 375px){
+    
+}
+
+/* style for desktop screens */
+@media (min-width: 1440px) {
+
+}
+
