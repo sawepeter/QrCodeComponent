@@ -4,16 +4,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -26,6 +20,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL here](https://github.com/sawepeter/QrCodeComponent)
 - Live Site URL: [Add live site URL here](https://qr-code-component-ruddy-seven.vercel.app/)
+
+### Built with 
+
+I used HTMl and CSS.
 
 ## Author
 
